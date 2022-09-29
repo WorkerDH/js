@@ -1,2 +1,2 @@
 # js
-This is a collection of many tools JS
+This is a collection of tools JS
